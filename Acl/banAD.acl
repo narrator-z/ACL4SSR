@@ -81,6 +81,7 @@
 
 # 178
 (^|\.)analytics\.wanmei\.com$
+(^|\.)gg\.stargame\.com$
 
 # 2345
 (^|\.)(dl|download|houtai|jifen|minipage|wan|jifendownload|zhushou)\.2345\.cn$
