@@ -8,11 +8,11 @@ payload:
   - DOMAIN-SUFFIX,dizhensubao.getui.com
 
   # Google
-  - DOMAIN,dl.google.com
-  - DOMAIN-SUFFIX,googletraveladservices.com
+  #- DOMAIN,dl.google.com
+  #- DOMAIN-SUFFIX,googletraveladservices.com
 
   # Mozilla
-  - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+  #- DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 
   # Origin
   - DOMAIN,origin-a.akamaihd.net
@@ -57,3 +57,24 @@ payload:
   - DOMAIN-SUFFIX,FamilyDS.com
   - DOMAIN-SUFFIX,FamilyDS.net
   - DOMAIN-SUFFIX,FamilyDS.org
+
+  # DDNS服务商
+  - DOMAIN-SUFFIX,no-ip.com
+  - DOMAIN-SUFFIX,no-ip.org
+  - DOMAIN-SUFFIX,no-ip.net
+  - DOMAIN-SUFFIX,ddns.net
+  - DOMAIN-SUFFIX,dynu.com
+  - DOMAIN-SUFFIX,dynv6.com
+  - DOMAIN-SUFFIX,duckdns.org
+  - DOMAIN-SUFFIX,freedns.afraid.org
+  - DOMAIN-SUFFIX,he.net
+  - DOMAIN-SUFFIX,dyn.com
+  - DOMAIN-SUFFIX,changeip.com
+  - DOMAIN-SUFFIX,tunnelbroker.net
+  - DOMAIN-SUFFIX,ipv6.he.net
+  - DOMAIN-SUFFIX,dnsomatic.com
+  - DOMAIN-SUFFIX,zoneedit.com
+  - DOMAIN-SUFFIX,namecheap.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,api.cloudflare.com
+  - DOMAIN-SUFFIX,dynv6.net

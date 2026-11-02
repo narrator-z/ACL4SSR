@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,dizhensubao.getui.com
 
 # Google
-DOMAIN,dl.google.com
-DOMAIN-SUFFIX,googletraveladservices.com
+# DOMAIN,dl.google.com
+# DOMAIN-SUFFIX,googletraveladservices.com
 
 # Mozilla
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
@@ -56,3 +56,46 @@ DOMAIN-SUFFIX,DSmyNAS.org
 DOMAIN-SUFFIX,FamilyDS.com
 DOMAIN-SUFFIX,FamilyDS.net
 DOMAIN-SUFFIX,FamilyDS.org
+
+# self use
+DOMAIN-SUFFIX,lovehonor.top
+DOMAIN-KEYWORD,qy-hk.kunlun06dns.com
+DOMAIN-KEYWORD,230126
+DOMAIN-KEYWORD,260123
+DOMAIN-KEYWORD,gh-proxy
+DOMAIN-SUFFIX,lovehonor.top
+IN-USER,i2pd
+DOMAIN-SUFFIX,i2p
+#DOMAIN-REGEX,^stun.*.*
+DOMAIN-KEYWORD,tracker
+
+DOMAIN-SUFFIX,dcg.microsoft.com
+
+# Tunnel region endpoints
+DOMAIN-SUFFIX,region1.v2.argotunnel.com
+DOMAIN-SUFFIX,region2.v2.argotunnel.com
+
+# Docker Image
+DOMAIN-SUFFIX,docker.m.daocloud.io
+DOMAIN-SUFFIX,docker.1panel.live
+DOMAIN-SUFFIX,hub.rat.dev
+DOMAIN-SUFFIX,ghcr.nju.edu.cn
+DOMAIN-SUFFIX,docker.milu.moe
+DOMAIN-SUFFIX,docker.1ms.run
+DOMAIN-SUFFIX,docker.hlmirror.com
+DOMAIN-SUFFIX,registry.hub.docker.com
+DOMAIN-SUFFIX,docker.xuanyuan.me
+DOMAIN-SUFFIX,docker.fnnas.com
+DOMAIN-SUFFIX,docker.m.daocloud.io
+DOMAIN-SUFFIX,fit2cloud.com
+
+# feiniu
+DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fndepot.openpop.cn
+DOMAIN-SUFFIX,dnse2.com
+DOMAIN-SUFFIX,copilot.tencent.com
+DOMAIN-SUFFIX,cloud.tencent.com
+
+# outlook
+DOMAIN-SUFFIX,outlook.live.com
+DOMAIN-SUFFIX,office365.com

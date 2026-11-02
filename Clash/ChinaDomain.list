@@ -724,3 +724,25 @@ DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,95516.com
+
+# cloudflare
+GEOSITE,cloudflare
+GEOIP,cloudflare,no-resolve
+
+DOMAIN-SUFFIX,argotunnel.com
+#DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,r2.dev
+DOMAIN-SUFFIX,cloudflare-ech.com
+
+
+# Zero Trust / Access
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflaregateway.com
+DOMAIN-SUFFIX,cloudflarewarp.com
