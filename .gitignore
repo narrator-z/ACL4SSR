@@ -1,0 +1,4 @@
+.idea/
+Clash/config/config.yaml
+Clash/config/manual.yaml
+Clash/Providers/provider_base.yaml

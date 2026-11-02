@@ -1,0 +1,64 @@
+# 阿里云 DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,dns.aliyun.com
+
+DOMAIN-SUFFIX,oaifree.com
+
+# 360 安全 DNS
+DOMAIN-SUFFIX,doh.360.cn
+
+# 114 DNS
+DOMAIN-SUFFIX,dns.114dns.com
+DOMAIN-SUFFIX,dns.114.so
+
+# 百度 DNS
+DOMAIN-SUFFIX,dns.baidu.com
+
+# 腾讯 DNS
+DOMAIN-SUFFIX,dns.qq.com
+DOMAIN-SUFFIX,dns.tencent.com
+
+# 华为云 DNS
+DOMAIN-SUFFIX,dns.huaweicloud.com
+
+# 电信/移动/联通 DNS
+DOMAIN-SUFFIX,dns.189.cn
+DOMAIN-SUFFIX,dns.10086.cn
+DOMAIN-SUFFIX,dns.10010.com
+
+# 公共教育网 DNS
+DOMAIN-SUFFIX,dns.tuna.tsinghua.edu.cn
+DOMAIN-SUFFIX,dns.cernet.net
+DOMAIN-SUFFIX,dns.cnc.ac.cn
+
+# 其他公共 DNS
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dns.223.5.com
+DOMAIN-SUFFIX,dns.223.6.com
+DOMAIN-SUFFIX,dns.18003.com
+DOMAIN-SUFFIX,dns.wo.com.cn
+DOMAIN-SUFFIX,dns.163.com
+DOMAIN-SUFFIX,dns.126.net
+DOMAIN-SUFFIX,dns.360safe.com
+DOMAIN-SUFFIX,dns.xiaomi.com
+DOMAIN-SUFFIX,dns.oppo.com
+DOMAIN-SUFFIX,dns.vivo.com
+DOMAIN-SUFFIX,dns.meizu.com
+DOMAIN-SUFFIX,dns.oneplus.com
+DOMAIN-SUFFIX,dns.honor.com
+DOMAIN-SUFFIX,dns.sogou.com
+DOMAIN-SUFFIX,dns.ucweb.com
+DOMAIN-SUFFIX,dns.360.cn
+
+# IP-CIDR
+IP-CIDR,1.12.12.12/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,180.76.76.76/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,182.254.116.116/32,no-resolve
+IP-CIDR,101.226.4.6/32,no-resolve
+IP-CIDR,210.2.4.8/32,no-resolve
+IP-CIDR,123.125.81.6/32,no-resolve
+IP-CIDR,140.207.198.6/32,no-resolve
