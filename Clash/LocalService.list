@@ -107,4 +107,3 @@ PROCESS-NAME,NetTransport
 PROCESS-NAME,WebTorrent
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,cloudflare.com
