@@ -68,6 +68,7 @@ IN-USER,i2pd
 DOMAIN-SUFFIX,i2p
 #DOMAIN-REGEX,^stun.*.*
 DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,transmission
 
 DOMAIN-SUFFIX,dcg.microsoft.com
 
